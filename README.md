@@ -6,9 +6,11 @@ Created by [Korambit](https://github.com/Korambit).
 
 ## Downloads
 
-The first public Windows preview is being prepared. There is no public installer in this repository yet.
+**[Download PrismDock 4.2.1 for Windows](https://github.com/Korambit/PrismDock-Releases/releases/download/v4.2.1/PrismDock-Setup-4.2.1.exe)**
 
-Once published, installers and version notes will be available on the [Releases page](https://github.com/Korambit/PrismDock-Releases/releases). Download the **PrismDock-Setup** EXE attached to the release. GitHub's automatically generated “Source code” archives contain this downloads repository's documentation, not the application or its installer.
+Installers and version notes are available on the [Releases page](https://github.com/Korambit/PrismDock-Releases/releases). Download the **PrismDock-Setup** EXE attached to the release. GitHub's automatically generated “Source code” archives contain this downloads repository's documentation, not the application or its installer.
+
+Close PrismDock, then run setup to install or update the same per-user application. Back up your Account Packs before upgrading. If you used an earlier private preview, install 4.2.1 manually once; it contains the public address and verification key for discovering future signed updates. A complete hosted older-to-newer update test requires a subsequent configured release.
 
 ## What it offers
 
