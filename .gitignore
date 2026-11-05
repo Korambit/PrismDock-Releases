@@ -1,0 +1,19 @@
+# Downloads belong in GitHub Releases, not Git history.
+*.exe
+*.zip
+*.7z
+*.pem
+*.key
+*.pfx
+*.p12
+*.db
+*.sqlite*
+*.pack
+*.vault
+*.csv
+*.tsv
+*.txt
+*.json
+*.log
+.env*
+__pycache__/
